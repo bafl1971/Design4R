@@ -1,5 +1,7 @@
 format: jb-book
 root: intro.md
+options:
+  numbered: true
 
 parts:
   - caption: Contents
