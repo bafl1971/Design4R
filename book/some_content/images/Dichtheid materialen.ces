@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>4338d373-2ec2-4836-8ab9-2ab2285bde2d</ID>
+  <Version>7</Version>
+  <Name />
+  <Author>Bas Flipsen - IO</Author>
+  <Company>429955</Company>
+  <Notes />
+  <Template />
+  <PassNA>false</PassNA>
+  <FailEstimatedRecords>false</FailEstimatedRecords>
+  <ResultType>0</ResultType>
+  <ResultStage>-1</ResultStage>
+  <RankByType>0</RankByType>
+  <RankByStage>-1</RankByStage>
+  <RankByProperty />
+  <IndexRankColumn>0</IndexRankColumn>
+  <RankOrder>1</RankOrder>
+  <Database>
+    <Path>C:\Program Files (x86)\Granta EduPack\2023 R2\Database\English Level 2\data.gdb</Path>
+    <Name>Level 2</Name>
+    <Unit>Metric</Unit>
+    <UnitType>Relative</UnitType>
+    <Currency>EUR</Currency>
+    <SelectionTable>MaterialUniverse</SelectionTable>
+    <Tables>
+      <Table>
+        <TableName>MaterialUniverse</TableName>
+        <SubsetName>All materials</SubsetName>
+        <LayoutName>All properties</LayoutName>
+        <CompareTable>
+          <Windowplacement />
+          <ZOrder>-1</ZOrder>
+          <ShowProjectData>false</ShowProjectData>
+          <ShowRanges>true</ShowRanges>
+          <ShowValues>true</ShowValues>
+          <PercentError>10</PercentError>
+        </CompareTable>
+        <UserDefinedNearnessSettings />
+        <Favourites />
+        <CompareRecords />
+        <RecordCustomLabels />
+        <Envelopes>
+          <Envelope>
+            <Id>EDU04-52</Id>
+            <Name>Glasses</Name>
+            <Color>4</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>X41353558-58e7-4c1a-b852-55fbd6d4a4b2</Id>
+            <Name>Non-technical ceramics</Name>
+            <Color>9</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>EDU04-232</Id>
+            <Name>Technical ceramics</Name>
+            <Color>3</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>EDU04-4329</Id>
+            <Name>Composites</Name>
+            <Color>6</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>EDU04-7014</Id>
+            <Name>Foams</Name>
+            <Color>1</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>EDU04-7004</Id>
+            <Name>Natural materials</Name>
+            <Color>7</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>EDU04-1590</Id>
+            <Name>Metals and alloys</Name>
+            <Color>0</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>EDU04-4083</Id>
+            <Name>Elastomers</Name>
+            <Color>5</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>Xe6316629-83a2-40e1-82d0-201426288240</Id>
+            <Name>Polymers</Name>
+            <Color>2</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+        </Envelopes>
+        <UserRecords />
+      </Table>
+      <Table>
+        <TableName>Reference</TableName>
+        <SubsetName>Materials References</SubsetName>
+        <LayoutName>All References</LayoutName>
+        <CompareTable>
+          <Windowplacement />
+          <ZOrder>-1</ZOrder>
+          <ShowProjectData>false</ShowProjectData>
+          <ShowRanges>true</ShowRanges>
+          <ShowValues>true</ShowValues>
+          <PercentError>10</PercentError>
+        </CompareTable>
+        <UserDefinedNearnessSettings />
+        <Favourites />
+        <CompareRecords />
+        <RecordCustomLabels />
+        <Envelopes />
+        <UserRecords />
+      </Table>
+      <Table>
+        <TableName>ProcessUniverse</TableName>
+        <SubsetName>All Processes</SubsetName>
+        <LayoutName>All Processes</LayoutName>
+        <CompareTable>
+          <Windowplacement />
+          <ZOrder>-1</ZOrder>
+          <ShowProjectData>false</ShowProjectData>
+          <ShowRanges>true</ShowRanges>
+          <ShowValues>true</ShowValues>
+          <PercentError>10</PercentError>
+        </CompareTable>
+        <UserDefinedNearnessSettings />
+        <Favourites />
+        <CompareRecords />
+        <RecordCustomLabels />
+        <Envelopes />
+        <UserRecords />
+      </Table>
+      <Table>
+        <TableName>Producers</TableName>
+        <SubsetName>Producers</SubsetName>
+        <LayoutName>Producers</LayoutName>
+        <CompareTable>
+          <Windowplacement />
+          <ZOrder>-1</ZOrder>
+          <ShowProjectData>false</ShowProjectData>
+          <ShowRanges>true</ShowRanges>
+          <ShowValues>true</ShowValues>
+          <PercentError>10</PercentError>
+        </CompareTable>
+        <UserDefinedNearnessSettings />
+        <Favourites />
+        <CompareRecords />
+        <RecordCustomLabels />
+        <Envelopes />
+        <UserRecords />
+      </Table>
+    </Tables>
+    <ParameterValues>
+      <ParameterValue>
+        <Name>Batch Size</Name>
+        <Value>1000</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Capital Write-off Time</Name>
+        <Value>5</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Component length</Name>
+        <Value>1</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Component Mass</Name>
+        <Value>1</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Discount Rate</Name>
+        <Value>5</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Load Factor</Name>
+        <Value>0.5</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Material Cost</Name>
+        <Value>7.4607529640197754</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Overhead Rate</Name>
+        <Value>139.88911437988281</Value>
+      </ParameterValue>
+    </ParameterValues>
+  </Database>
+  <Stages>
+    <Stage xsi:type="BarStageMemento">
+      <Name />
+      <Notes />
+      <Windowplacement>0,1,-1,-1,-1,-1,0,66,820,426</Windowplacement>
+      <ZOrder>1</ZOrder>
+      <SelectWholeRecords>false</SelectWholeRecords>
+      <Enabled>false</Enabled>
+      <PassNA>false</PassNA>
+      <HideFailedRecords>false</HideFailedRecords>
+      <ResultIntersection>true</ResultIntersection>
+      <ShowFavourites>false</ShowFavourites>
+      <ShowVirtualRecords>false</ShowVirtualRecords>
+      <ShowUserRecords>false</ShowUserRecords>
+      <ShowReferenceMaterial>false</ShowReferenceMaterial>
+      <FailEstimates>false</FailEstimates>
+      <xAxis>
+        <Name />
+        <FunctionObjective />
+        <Expression>[MaterialUniverse:\Ceramics and glasses]&#xD;
+[MaterialUniverse:\Hybrids: composites, foams, natural materials]&#xD;
+[MaterialUniverse:\Metals and alloys]&#xD;
+[MaterialUniverse:\Polymers and elastomers]</Expression>
+        <ExpressionType>4</ExpressionType>
+        <AbsoluteValues>true</AbsoluteValues>
+        <LogAxis>false</LogAxis>
+        <Low>0</Low>
+        <High>4</High>
+      </xAxis>
+      <yAxis>
+        <Name>CO2 footprint, primary production (kg/kg)</Name>
+        <FunctionObjective />
+        <Expression>[CO2 footprint, primary production]</Expression>
+        <ExpressionType>1</ExpressionType>
+        <AbsoluteValues>true</AbsoluteValues>
+        <LogAxis>true</LogAxis>
+        <Low>0.003599999938160181</Low>
+        <High>12000</High>
+      </yAxis>
+      <Selections />
+      <Labels>
+        <Label xsi:type="BarLabel">
+          <Text>Bronze</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Arial</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>2.5239436619718312</XPos>
+          <YPos>4.1153827961750844</YPos>
+          <RecordGruid>EDU05-6102</RecordGruid>
+          <Bar>2</Bar>
+        </Label>
+        <Label xsi:type="BarLabel">
+          <Text>Polyurethane (tpPUR)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Arial</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>3.0816901408450703</XPos>
+          <YPos>1221.5827239978692</YPos>
+          <RecordGruid>EDU04-9805</RecordGruid>
+          <Bar>3</Bar>
+        </Label>
+      </Labels>
+      <Curves />
+    </Stage>
+    <Stage xsi:type="BarStageMemento">
+      <Name />
+      <Notes />
+      <Windowplacement>0,1,-1,-1,-1,-1,0,66,1314,664</Windowplacement>
+      <ZOrder>2</ZOrder>
+      <SelectWholeRecords>false</SelectWholeRecords>
+      <Enabled>true</Enabled>
+      <PassNA>false</PassNA>
+      <HideFailedRecords>false</HideFailedRecords>
+      <ResultIntersection>true</ResultIntersection>
+      <ShowFavourites>false</ShowFavourites>
+      <ShowVirtualRecords>false</ShowVirtualRecords>
+      <ShowUserRecords>false</ShowUserRecords>
+      <ShowReferenceMaterial>false</ShowReferenceMaterial>
+      <FailEstimates>false</FailEstimates>
+      <xAxis>
+        <Name />
+        <FunctionObjective />
+        <Expression>[MaterialUniverse:\Metals and alloys\Non-ferrous]&#xD;
+[MaterialUniverse:\Metals and alloys\Ferrous]&#xD;
+[MaterialUniverse:\Ceramics and glasses\Technical ceramics]&#xD;
+[MaterialUniverse:\Ceramics and glasses\Non-technical ceramics]&#xD;
+[MaterialUniverse:\Ceramics and glasses\Glasses]&#xD;
+[MaterialUniverse:\Polymers and elastomers\Polymers\Thermoplastics]&#xD;
+[MaterialUniverse:\Polymers and elastomers\Polymers\Thermosets]&#xD;
+[MaterialUniverse:\Polymers and elastomers\Elastomers]&#xD;
+[MaterialUniverse:\Hybrids: composites, foams, natural materials\Composites]&#xD;
+[MaterialUniverse:\Hybrids: composites, foams, natural materials\Natural materials]&#xD;
+[MaterialUniverse:\Hybrids: composites, foams, natural materials\Foams]</Expression>
+        <ExpressionType>4</ExpressionType>
+        <AbsoluteValues>true</AbsoluteValues>
+        <LogAxis>false</LogAxis>
+        <Low>0</Low>
+        <High>11</High>
+      </xAxis>
+      <yAxis>
+        <Name>Density (kg/m^3)</Name>
+        <FunctionObjective />
+        <Expression>[Density]</Expression>
+        <ExpressionType>1</ExpressionType>
+        <AbsoluteValues>true</AbsoluteValues>
+        <LogAxis>true</LogAxis>
+        <Low>16</Low>
+        <High>19400</High>
+      </yAxis>
+      <Selections />
+      <Labels />
+      <Curves />
+    </Stage>
+  </Stages>
+</Project>
