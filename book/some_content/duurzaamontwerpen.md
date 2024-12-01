@@ -14,6 +14,8 @@ Al deze fasen in de levensduur van het product hebben ook invloed op het milieu.
 
 In een Levens Cyclus Analyse of Assessment (LCA) worden deze impacts bij elkaar opgeteld. De milieubelasting van het product over haar hele leven kan hiermee in kaart kan worden gebracht. Je kan vervolgens achterhalen welke fase (productie, distributie, gebruik of einde leven) het meeste impact heeft, of op welk onderdeel je moet focussen om de impact te verlagen. Met behulp van een LCA kan je dus focussen en, daar waar nodig, verbeteringen doorvoeren. 
 
+[![introduction to fast track LCA](https://img.youtube.com/vi/cquD7b_KLH0/0.jpg)](https://youtu.be/cquD7b_KLH0)
+
 LCA's maken is een vak apart. Wanneer je dit goed wilt doen kost het veel tijd en moet je precies weten hoe, waar en waarvan het wordt gemaakt ([ILCD Handboek, 2010](https://dx.doi.org/10.2788/38479)). In dit vak gaan we dit niet doen, maar maken we een zogenaamde "**eco-geïnformeerde analyse**". We bekijken niet de hele levenscyclus van *cradle-to-grave*, maar focussen onszelf op de productiefase, van *cradle-to-gate*, en dan voornamelijk op de milieubelasting van alleen de materialen gebruikt in het product. In veel gevallen kan je hiermee al snel een indicatie krijgen waar je je op moet focussen. Het overgrote deel van de milieubelasting is ten gevolge van het materialengebruik, gevolgd door de processen gebruikt om de onderdelen te produceren en het transport ervan. Gebruikt een product veel energie (zoals bij een wasmachine) dan is dit ook een belangrijk focuspunt. 
 
 ## Stuklijst
@@ -53,7 +55,7 @@ Zoals je ziet heeft aluminium een veel hogere impact $(9-10 kgCO_2/kg)$ ten opzi
 
 In de figuur hieronder zie je een algemeen overzicht van de milieubelasting voor verschillende materialengroepen.
 
-![](/Users/bflipsen/Library/Application%20Support/marktext/images/2024-06-18-20-18-24-image.png) 
+![](images/2024-06-18-20-18-24-image.png)
 
 ## Materiaaldeterminatie
 
@@ -101,7 +103,7 @@ Metalen zijn, als ze niet gecoat zijn vaak te herkennen aan hun kleur (zie hierb
 
 In consumentenproducten worden thermoharders niet vaak gebruikt, waardoor kunststoffen voornamelijk thermoplastische polymeren blijken te zijn. Met behulp van visuele inspectie is kan je kijken naar o.a. transparantie waarmee je de eerste materialen al kan deduceren. Polymeren kunnen worden beschreven op een ranglijst van vier niveaus, variërend van Waterhelder, Transparant, Translucent tot Opaak. De meest gebruikte transparante polymeren zijn vaak de goedkoopste, namelijk: PET, PS en PMMA. Ook PC en Polyester kunnen zo helder als water zijn.
 
-![](/Users/bflipsen/Library/CloudStorage/OneDrive-DelftUniversityofTechnology/TUDELFT/TN-DEF%201%20en%202/Techniek%20voor%20Fysicie%20Boek/images/2024-06-19-08-21-58-image.png)
+![](images/2024-06-19-08-21-58-image.png)
 
 Naast het gevoel van massa, de transparantie en de thermische geleiding kan je voor kunststof ook kijken naar de zogenaamde "recycling code" . Deze code is in het leven geroepen om achteraf voornamelijk verpakkingskunststoffen te kunnen sorteren. De code betekend niet per definitie dat het materiaal ook daadwerkelijk wordt gerecycleerd!
 
